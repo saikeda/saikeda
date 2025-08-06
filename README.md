@@ -34,9 +34,6 @@ A: 数据实时更新，准确率95%以上
 **Q: 怎么快速找到目标客户？**  
 A: 可按地区、行业、规模等条件筛选
 
-**Q: 支持批量查询吗？**
-A: 会员支持批量导出联系方式
-
 ---
 
 **客服微信：** ![20d53aa04adc2dfeea5fb135f52eb9d9](https://github.com/user-attachments/assets/f23dac1b-0082-4df9-bc23-71c501ab9a4c)
